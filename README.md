@@ -1,5 +1,5 @@
 # Drum-Kit
-A Website that can play drum on the Web by using keys and mouse.
+A Website that can play drums by using keys and mouse.
 Click on this link to play Drum-Kit https://sanved07.github.io/Drum-Kit/
 
 
